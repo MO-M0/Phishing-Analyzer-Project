@@ -3,9 +3,13 @@
 A Python software that analyzes synthetic email files (`.eml`) and
 flags indicators commonly associated with phishing attempts, then produces
 a risk score (0–100) and a LOW / MEDIUM / HIGH / CRITICAL classification, developed by
+
+## Student Information
+```
 NAME: Amole Moyinoluwa Candice
 LEVEL: 300lv
 PHONE NUMBER: 09028183275
+```
 
 
 Built for a cybersecurity practical assignment. **All sample emails in
