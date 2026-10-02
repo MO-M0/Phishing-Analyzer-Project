@@ -1,0 +1,2 @@
+# This project uses only Python's standard library
+# (email, re, urllib.parse, dataclasses) so there is nothing extra to install

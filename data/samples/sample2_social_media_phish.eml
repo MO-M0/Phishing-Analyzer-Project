@@ -1,0 +1,17 @@
+From: Wotmers Support <alerts@secure-bank-verify.example>
+Subject: Final notice: Unusual activity detected on your account
+Content-Type: multipart/mixed; boundary="BOUNDARY123"
+
+--BOUNDARY123
+Content-Type: text/plain; charset="utf-8"
+
+Dear Client,
+
+Unusual activity was detected on your account. Please login to verify
+your identity and confirm your ssn to avoid account suspension.
+
+Login here: http://wottmers/secure-bank-verify.example
+
+This is your final notice.
+
+

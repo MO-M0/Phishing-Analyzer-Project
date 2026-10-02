@@ -1,0 +1,24 @@
+From: Billing Department <billing@office365-invoices.example>
+Subject: Invoice #88213 attached - payment due immediately
+Content-Type: multipart/mixed; boundary="BOUNDARY456"
+
+--BOUNDARY456
+Content-Type: text/plain; charset="utf-8"
+
+Hello,
+
+Please find attached your invoice. Payment is due immediately to avoid
+late fees. You can also view the invoice online here:
+
+http://tinyurl.com/inv88213
+
+Regards,
+Billing Department
+
+--BOUNDARY456
+Content-Type: application/vnd.ms-excel.sheet.macroEnabled.12; name="Invoice_88213.xlsm"
+Content-Disposition: attachment; filename="Invoice_88213.xlsm"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBhIHN5bnRoZXRpYyBwbGFjZWhvbGRlciBmaWxlIGZvciB0ZXN0aW5nIG9ubHku
+--BOUNDARY456--
